@@ -1,4 +1,4 @@
-# SchoolX
+# School X
 <a name="readme-top"></a>
 
 
@@ -8,7 +8,7 @@
 
 # 📗 Table of Contents
 
-- [SchoolX](#schoolx)
+- [Smart School](#smart-school)
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 SchoolX ](#-schoolx-)
     - [Tech Stack ](#tech-stack-)
