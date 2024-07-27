@@ -77,7 +77,7 @@ class WindowManager(ScreenManager):
 
 class SchoolX(MDApp):
     def build(self):
-        self.theme_cls.primary_palette = "Teal"
+        self.theme_cls.primary_palette = "Purple"
         self.theme_cls.theme_style = "Light"
         return Builder.load_file("main.kv")
 

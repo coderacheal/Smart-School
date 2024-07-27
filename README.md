@@ -1,4 +1,4 @@
-# Smart School
+# SchoolX
 <a name="readme-top"></a>
 
 
@@ -8,9 +8,9 @@
 
 # 📗 Table of Contents
 
-- [Smart School](#catalog)
+- [SchoolX](#schoolx)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Smart School\] ](#-catalog-)
+- [📖 SchoolX ](#-schoolx-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
   - [💻 Getting Started ](#-getting-started-)
@@ -18,15 +18,15 @@
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
-  - [👥 Authors ](#-author-)
+  - [👥 Author ](#-author-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments  --\>](#-acknowledgments----)
   - [📝 License ](#-license-)
 
-# 📖 Smart School <a name="about-project"></a>
-**Smart School** is a desktop application for schools to track their income and revenue. It also includes a database for storing data locally and visualization it. The GUI was built on KIVY with Material design. 
+# 📖 SchoolX <a name="about-project"></a>
+**SchoolX** is a desktop application for schools to track their income and revenue. It also includes a database for storing data locally and visualization it. The GUI was built on KIVY with Material design. 
 
 <!-- ## 🛠 Built With <a name="built-with"></a> --> 
 
@@ -71,7 +71,7 @@
 - **Record fees paid and by whom**
 - **Show record of learners who have made full or part payment of fees**
 - **Keep data on alumni**
-- **Show visualization of the data on expenses and income**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,6 +129,7 @@ Run
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **Make app available online as a web app**
+- [ ] **Show visualization of the data on expenses and income**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
